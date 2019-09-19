@@ -1,6 +1,6 @@
 # CryptoCoin_ICO
 created a smart-contract using solidity and remix ide and interacted with it using Ganache and Etherwallet
-#What is an ICO?
+# What is an ICO?
 DEFINITION of Initial Coin Offering (ICO)
  (*) For traditional companies, there are a few ways of going about raising funds necessary for development and expansion.
   A company can start small and grow as its profits allow, remaining beholden only to 
@@ -16,10 +16,10 @@ DEFINITION of Initial Coin Offering (ICO)
   The company holding the ICO uses the investor funds as a means of furthering its goals, launching its product, or starting its digital currency. 
   ICOs are used by startups to bypass the rigorous and regulated capital-raising process required by venture capitalists or banks.
   
- # Ganache --> It is an app which provide custom Blockchain for inplementation/Testing of Smart-Contract.
- # Etherwallet --> Website to interact with blockchain (https://github.com/kvhnuke/etherwallet)
- # Solidity --> Programming Language
- # Remix --> Online IDE
+ #Ganache --> It is an app which provide custom Blockchain for inplementation/Testing of Smart-Contract.
+ #Etherwallet --> Website to interact with blockchain (https://github.com/kvhnuke/etherwallet)
+ #Solidity --> Programming Language
+ #Remix --> Online IDE
  
  #How it works?
  --> See the photos uploaded.
