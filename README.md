@@ -17,7 +17,10 @@ DEFINITION of Initial Coin Offering (ICO)
   ICOs are used by startups to bypass the rigorous and regulated capital-raising process required by venture capitalists or banks.
   
  #Ganache --> It is an app which provide custom Blockchain for inplementation/Testing of Smart-Contract.
- #Etherwallet --> Website to interact with blockchain (https://github.com/kvhnuke/etherwallet)
+ 
+ # Etherwallet 
+ Website to interact with blockchain (https://github.com/kvhnuke/etherwallet)
+ 
  #Solidity --> Programming Language
  #Remix --> Online IDE
  
